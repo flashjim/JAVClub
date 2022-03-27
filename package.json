@@ -37,7 +37,7 @@
     "knex-paginate": "^1.2.0",
     "lodash": "^4.17.15",
     "log4js": "^6.1.2",
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "mysql": "^2.18.1",
     "node-fetch": "^2.6.0",
     "p-queue": "^6.3.0",
